@@ -14,7 +14,8 @@ RUN npm ci
 # Copy source code
 COPY . .
 
-# Build the application
+# Build the application for Cloud Run (root path)
+ENV DEPLOY_TARGET=cloudrun
 RUN npm run build
 
 # Stage 2: Serve with nginx
