@@ -1,7 +1,9 @@
 {
-  "name": "ai-ml-portfolio",
+  "name": "prashil-bulbule-portfolio",
   "private": true,
   "version": "1.0.0",
+  "description": "Professional portfolio for Prashil Bulbule - AI Engineer, Machine Learning Engineer, Staff Software Engineer",
+  "author": "Prashil Bulbule <prashilbulbule13@gmail.com>",
   "type": "module",
   "scripts": {
     "dev": "vite",

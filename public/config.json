@@ -1,43 +1,45 @@
 {
   "personal": {
-    "name": "Your Name",
-    "title": "Seasonal AI/ML Engineer",
+    "name": "Prashil Bulbule",
+    "title": "AI Engineer | Machine Learning Engineer | Staff Software Engineer",
     "photo": "/path-to-your-photo.jpg",
-    "email": "your.email@example.com",
-    "linkedin": "https://linkedin.com/in/yourprofile",
+    "email": "prashilbulbule13@gmail.com",
+    "linkedin": "https://linkedin.com/in/prashil-bulbule",
     "github": "https://github.com/pbulbule13"
   },
   "about": {
     "title": "About Me",
-    "description": "I'm a passionate AI/ML Engineer specializing in building intelligent systems that solve real-world problems. With expertise in machine learning algorithms, deep learning architectures, and production-grade AI systems, I transform data into actionable insights and innovative solutions.",
+    "description": "Established technical leader with 12+ years of experience in designing, building, and scaling software and data systems in fast-paced enterprise environments. Strong focus on Agentic AI, Generative AI, and Machine Learning frameworks, particularly within the healthcare domain. Expertise in building real-time data pipelines, developing AI-powered solutions, and ensuring HIPAA compliance and factual reliability. Currently serving as AI/ML Engineer at Exact Sciences, where I architect cutting-edge RAG systems, multi-agent frameworks, and conversational AI solutions that drive measurable business impact.",
     "skills": [
-      "Machine Learning",
-      "Deep Learning",
-      "Natural Language Processing",
-      "Large Language Models (LLMs)",
-      "RAG & Vector Databases",
-      "Multi-Agent Systems",
-      "MLOps & Model Deployment",
-      "Python, TensorFlow, PyTorch",
-      "LangChain, LangGraph",
-      "FastAPI, Flask",
-      "Data Engineering & Analysis"
+      "Agentic AI (LangGraph, LangSmith, CrewAI, AutoGen, MCP)",
+      "Generative AI & RAG Systems",
+      "Fine-Tuning (PEFT, LORA, QLORA)",
+      "Transformers & PyTorch",
+      "Multi-Agent Orchestration",
+      "LLM Evaluation & Guardrails (RAGAS, Arize Phoenix)",
+      "Prompting (CoT, ToT, Advanced Techniques)",
+      "Vector Databases (Pinecone, Weaviate, FAISS, Chroma)",
+      "AWS (SageMaker, EKS, Lambda), Azure, Vertex AI",
+      "Apache Airflow, FastAPI, Flask, Docker, Kubernetes",
+      "Python, .NET (C#), JavaScript",
+      "SAP, NetSuite, Salesforce",
+      "HIPAA Compliance & Healthcare AI"
     ],
     "highlights": [
       {
         "icon": "brain",
-        "title": "AI Innovation",
-        "description": "Developing cutting-edge AI solutions using state-of-the-art LLMs and multi-agent architectures"
+        "title": "Healthcare AI Leader",
+        "description": "Architected AURA AI RAG system improving answer accuracy by 16% and reducing latency by 72% at Exact Sciences. Built HIPAA-compliant multi-agent frameworks increasing reporting efficiency by 40%"
       },
       {
         "icon": "code",
-        "title": "Production Systems",
-        "description": "Building scalable, production-ready ML pipelines and deployment infrastructure"
+        "title": "Production ML Expert",
+        "description": "Developed ML models achieving 90% accuracy for patient readmission prediction and 35% efficiency improvement in diagnostic workflows. Engineered HITL systems with >95% accuracy"
       },
       {
         "icon": "trending-up",
-        "title": "Impact Driven",
-        "description": "Focused on creating measurable business value through data-driven AI solutions"
+        "title": "Enterprise Architecture",
+        "description": "Led end-to-end SAP ERP implementations and enterprise integrations. 12+ years building scalable systems across healthcare, genomics, and enterprise domains"
       }
     ]
   },

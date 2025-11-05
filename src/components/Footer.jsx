@@ -51,7 +51,10 @@ function Footer({ personal }) {
       <div className="footer-bottom">
         <div className="container">
           <p className="copyright">
-            © {currentYear} {personal?.name || 'Your Name'}. Built with React & passion for AI/ML.
+            © {currentYear} {personal?.name || 'Your Name'}. All projects developed and designed by {personal?.name || 'Your Name'}.
+          </p>
+          <p className="copyright" style={{marginTop: '0.5rem', fontSize: '0.85rem', opacity: '0.8'}}>
+            Built with React, Vite & passion for AI/ML Engineering
           </p>
         </div>
       </div>
