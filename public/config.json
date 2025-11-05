@@ -5,7 +5,7 @@
     "photo": "/path-to-your-photo.jpg",
     "email": "your.email@example.com",
     "linkedin": "https://linkedin.com/in/yourprofile",
-    "github": "https://github.com/yourusername"
+    "github": "https://github.com/pbulbule13"
   },
   "about": {
     "title": "About Me",
@@ -14,16 +14,20 @@
       "Machine Learning",
       "Deep Learning",
       "Natural Language Processing",
-      "Computer Vision",
+      "Large Language Models (LLMs)",
+      "RAG & Vector Databases",
+      "Multi-Agent Systems",
       "MLOps & Model Deployment",
       "Python, TensorFlow, PyTorch",
+      "LangChain, LangGraph",
+      "FastAPI, Flask",
       "Data Engineering & Analysis"
     ],
     "highlights": [
       {
         "icon": "brain",
         "title": "AI Innovation",
-        "description": "Developing cutting-edge AI solutions using state-of-the-art models and techniques"
+        "description": "Developing cutting-edge AI solutions using state-of-the-art LLMs and multi-agent architectures"
       },
       {
         "icon": "code",
@@ -40,75 +44,214 @@
   "projects": {
     "categories": [
       {
-        "id": "machine-learning",
-        "name": "Machine Learning",
-        "description": "Classical ML and statistical learning projects",
+        "id": "artificial-intelligence",
+        "name": "Artificial Intelligence & LLM Projects",
+        "description": "Advanced AI systems with LLMs, RAG, and multi-agent architectures",
         "projects": [
           {
-            "name": "Predictive Analytics Platform",
-            "description": "End-to-end ML platform for time series forecasting with automated feature engineering and model selection",
-            "technologies": ["Python", "Scikit-learn", "XGBoost", "FastAPI"],
-            "githubUrl": "https://github.com/yourusername/project1",
-            "liveUrl": "https://your-project-url.com",
+            "name": "Talk2MyInbox",
+            "description": "Intelligent email management system with AI-powered query reasoning, LLM fallback chain, and day summarization UI for automated inbox processing",
+            "technologies": ["Python", "LLMs", "Gmail API", "FastAPI"],
+            "githubUrl": "https://github.com/pbulbule13/talk2myinbox",
+            "liveUrl": "",
             "highlights": [
-              "Automated feature engineering pipeline",
-              "95% prediction accuracy",
-              "Real-time inference API"
+              "Multi-LLM fallback chain",
+              "AI-powered query reasoning",
+              "Gmail OAuth integration",
+              "Day summarization UI"
             ]
           },
           {
-            "name": "Customer Segmentation Engine",
-            "description": "Unsupervised learning system for customer behavior analysis and segmentation",
-            "technologies": ["Python", "K-Means", "DBSCAN", "PCA"],
-            "githubUrl": "https://github.com/yourusername/project2",
+            "name": "AuraRAG",
+            "description": "Advanced Retrieval-Augmented Generation (RAG) system for intelligent document question-answering with vector embeddings",
+            "technologies": ["Python", "LangChain", "Vector DB", "Embeddings"],
+            "githubUrl": "https://github.com/pbulbule13/aurarag",
             "liveUrl": "",
             "highlights": [
-              "Dynamic clustering algorithm",
-              "Interactive visualization dashboard",
-              "Business insights generation"
+              "Vector-based retrieval",
+              "Context-aware responses",
+              "Document processing pipeline"
+            ]
+          },
+          {
+            "name": "Leader Dashboard",
+            "description": "AI-Powered Executive Dashboard for HealthCare Sciences with multi-agent system orchestrated by LangGraph for intelligent analytics",
+            "technologies": ["Python", "LangGraph", "Multi-Agent System", "HTML"],
+            "githubUrl": "https://github.com/pbulbule13/LeaderDashboard",
+            "liveUrl": "",
+            "highlights": [
+              "Multi-agent orchestration",
+              "LangGraph workflow",
+              "Healthcare analytics",
+              "Executive insights"
+            ]
+          },
+          {
+            "name": "Daily Journal",
+            "description": "AI-powered cognitive journal with calendar integration, voice recording, and intelligent entry analysis for personal productivity",
+            "technologies": ["Python", "LLMs", "Calendar API", "Voice Processing"],
+            "githubUrl": "https://github.com/pbulbule13/dailyjournal",
+            "liveUrl": "",
+            "highlights": [
+              "Voice-to-text journaling",
+              "Calendar integration",
+              "AI-powered insights",
+              "Multi-calendar support"
+            ]
+          },
+          {
+            "name": "AI Agents Framework",
+            "description": "Comprehensive framework for building and deploying autonomous AI agents with customizable behaviors and task orchestration",
+            "technologies": ["Python", "Agent Framework", "Task Orchestration"],
+            "githubUrl": "https://github.com/pbulbule13/agents",
+            "liveUrl": "",
+            "highlights": [
+              "Autonomous agent system",
+              "Task orchestration",
+              "Customizable behaviors"
+            ]
+          },
+          {
+            "name": "MediBot",
+            "description": "Medical AI assistant bot providing health information and preliminary diagnosis suggestions using NLP and medical knowledge bases",
+            "technologies": ["Python", "NLP", "Medical AI"],
+            "githubUrl": "https://github.com/pbulbule13/medibot",
+            "liveUrl": "",
+            "highlights": [
+              "Medical knowledge base",
+              "NLP-powered interactions",
+              "Health information assistant"
+            ]
+          },
+          {
+            "name": "Utils - Browser Automation",
+            "description": "Browser automation web UI with multi-LLM support for job search and research tasks, featuring intelligent web scraping and data extraction",
+            "technologies": ["Python", "Selenium", "Multi-LLM", "Web Automation"],
+            "githubUrl": "https://github.com/pbulbule13/utils",
+            "liveUrl": "",
+            "highlights": [
+              "Multi-LLM integration",
+              "Intelligent web scraping",
+              "Job search automation",
+              "Research task automation"
             ]
           }
         ]
       },
       {
-        "id": "artificial-intelligence",
-        "name": "Artificial Intelligence",
-        "description": "Deep learning, NLP, and advanced AI projects",
+        "id": "machine-learning",
+        "name": "Machine Learning & MLOps",
+        "description": "Classical ML, model training, fine-tuning, and automation projects",
         "projects": [
           {
-            "name": "Intelligent Chatbot System",
-            "description": "Advanced conversational AI powered by transformer models with context awareness and multi-turn dialogue",
-            "technologies": ["Python", "Transformers", "LangChain", "OpenAI API"],
-            "githubUrl": "https://github.com/yourusername/chatbot",
-            "liveUrl": "https://chatbot-demo.com",
-            "highlights": [
-              "Context-aware responses",
-              "Multi-language support",
-              "RAG implementation"
-            ]
-          },
-          {
-            "name": "Computer Vision Pipeline",
-            "description": "Real-time object detection and image classification system using deep neural networks",
-            "technologies": ["PyTorch", "YOLO", "ResNet", "OpenCV"],
-            "githubUrl": "https://github.com/yourusername/cv-project",
+            "name": "ML Projects Portfolio",
+            "description": "Collection of machine learning projects covering classification, regression, clustering, and time-series analysis with Jupyter notebooks",
+            "technologies": ["Python", "Scikit-learn", "Pandas", "Jupyter Notebook"],
+            "githubUrl": "https://github.com/pbulbule13/ml",
             "liveUrl": "",
             "highlights": [
-              "Real-time processing",
-              "Multi-object tracking",
-              "Custom model training pipeline"
+              "Multiple ML algorithms",
+              "End-to-end pipelines",
+              "Interactive notebooks"
             ]
           },
           {
-            "name": "NLP Text Analytics Suite",
-            "description": "Comprehensive text analysis toolkit with sentiment analysis, entity recognition, and summarization",
-            "technologies": ["BERT", "spaCy", "Hugging Face", "FastAPI"],
-            "githubUrl": "https://github.com/yourusername/nlp-suite",
-            "liveUrl": "https://nlp-demo.com",
+            "name": "Model Fine-tuning Framework",
+            "description": "Comprehensive framework for fine-tuning pre-trained models with custom datasets, hyperparameter optimization, and evaluation metrics",
+            "technologies": ["Python", "PyTorch", "Transformers", "Fine-tuning"],
+            "githubUrl": "https://github.com/pbulbule13/finetuning",
+            "liveUrl": "",
             "highlights": [
-              "Multi-task learning",
-              "Fine-tuned domain models",
-              "RESTful API interface"
+              "Custom dataset fine-tuning",
+              "Hyperparameter optimization",
+              "Model evaluation suite"
+            ]
+          },
+          {
+            "name": "AI/ML Automations",
+            "description": "Automated workflows and pipelines for ML model training, deployment, and monitoring with CI/CD integration",
+            "technologies": ["Python", "MLOps", "CI/CD", "Automation"],
+            "githubUrl": "https://github.com/pbulbule13/aimlautomations",
+            "liveUrl": "",
+            "highlights": [
+              "Automated ML pipelines",
+              "Model deployment automation",
+              "Monitoring and alerts"
+            ]
+          },
+          {
+            "name": "Production AI/ML Projects",
+            "description": "Production-ready AI/ML projects with deployment configurations, monitoring, and scalability features",
+            "technologies": ["Python", "Docker", "Kubernetes", "MLOps"],
+            "githubUrl": "https://github.com/pbulbule13/prodaimlprojects",
+            "liveUrl": "",
+            "highlights": [
+              "Production-grade code",
+              "Scalable architecture",
+              "Deployment ready"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "tools-integrations",
+        "name": "Tools & Integrations",
+        "description": "MCP servers, API integrations, and development utilities",
+        "projects": [
+          {
+            "name": "MCP with Google",
+            "description": "Model Context Protocol (MCP) integration with Google services for seamless AI model interaction with Google Workspace",
+            "technologies": ["Python", "MCP", "Google APIs", "Integration"],
+            "githubUrl": "https://github.com/pbulbule13/mcpwithgoogle",
+            "liveUrl": "",
+            "highlights": [
+              "Google Workspace integration",
+              "MCP protocol implementation",
+              "API orchestration"
+            ]
+          },
+          {
+            "name": "MCP Weather Server",
+            "description": "Model Context Protocol server for weather data integration, providing real-time weather information to AI models",
+            "technologies": ["Python", "MCP", "Weather API", "Server"],
+            "githubUrl": "https://github.com/pbulbule13/mcpweather",
+            "liveUrl": "",
+            "highlights": [
+              "Real-time weather data",
+              "MCP server implementation",
+              "API integration"
+            ]
+          },
+          {
+            "name": "Deployment Guide",
+            "description": "Comprehensive guide and utilities for deploying ML models and AI applications to cloud platforms with best practices",
+            "technologies": ["Python", "Docker", "Cloud Deployment", "DevOps"],
+            "githubUrl": "https://github.com/pbulbule13/deploy_guide",
+            "liveUrl": "",
+            "highlights": [
+              "Cloud deployment strategies",
+              "Best practices documentation",
+              "Automated deployment scripts"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "web-development",
+        "name": "Web Development",
+        "description": "Full-stack web applications and portfolio projects",
+        "projects": [
+          {
+            "name": "AI/ML Portfolio Website",
+            "description": "Production-grade portfolio application built with React and Vite, featuring collapsible sections, responsive design, and automatic GitHub Pages deployment",
+            "technologies": ["React", "Vite", "JavaScript", "GitHub Actions"],
+            "githubUrl": "https://github.com/pbulbule13/aboutme",
+            "liveUrl": "https://pbulbule13.github.io/aboutme/",
+            "highlights": [
+              "Single-page application",
+              "JSON-configurable content",
+              "Automatic deployment",
+              "Responsive design"
             ]
           }
         ]
