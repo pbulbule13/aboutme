@@ -9,7 +9,10 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "deploy": "npm run build && gh-pages -d dist"
+    "deploy": "npm run build && gh-pages -d dist",
+    "deploy:firebase": "npm run build && firebase deploy --only hosting",
+    "deploy:cloudrun": "bash deploy-cloudrun.sh",
+    "deploy:gcp": "npm run deploy:firebase"
   },
   "dependencies": {
     "react": "^18.3.1",
