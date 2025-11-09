@@ -56,7 +56,7 @@
             "technologies": ["Python", "LLMs", "Gmail API", "FastAPI"],
             "githubUrl": "https://github.com/pbulbule13/talk2myinbox",
             "liveUrl": "https://talk2myinbox-694708874867.us-central1.run.app",
-            "docsUrl": "https://github.com/pbulbule13/talk2myinbox#readme",
+            "docsUrl": "https://github.com/pbulbule13/talk2myinbox",
             "highlights": [
               "Multi-LLM fallback chain",
               "AI-powered query reasoning",
@@ -97,7 +97,7 @@
             "technologies": ["Python", "LLMs", "Calendar API", "Voice Processing"],
             "githubUrl": "https://github.com/pbulbule13/dailyjournal",
             "liveUrl": "",
-            "docsUrl": "https://github.com/pbulbule13/dailyjournal#readme",
+            "docsUrl": "https://github.com/pbulbule13/dailyjournal",
             "highlights": [
               "Voice-to-text journaling",
               "Calendar integration",
@@ -111,7 +111,7 @@
             "technologies": ["Python", "Agent Framework", "Task Orchestration"],
             "githubUrl": "https://github.com/pbulbule13/agents",
             "liveUrl": "https://ats-resume-694708874867.us-central1.run.app",
-            "docsUrl": "https://github.com/pbulbule13/agents#readme",
+            "docsUrl": "https://github.com/pbulbule13/agents",
             "highlights": [
               "Autonomous agent system",
               "Task orchestration",
@@ -124,7 +124,7 @@
             "technologies": ["Python", "NLP", "Medical AI"],
             "githubUrl": "https://github.com/pbulbule13/medibot",
             "liveUrl": "https://medibot-694708874867.us-central1.run.app",
-            "docsUrl": "https://github.com/pbulbule13/medibot#readme",
+            "docsUrl": "https://github.com/pbulbule13/medibot",
             "highlights": [
               "Medical knowledge base",
               "NLP-powered interactions",
@@ -158,7 +158,7 @@
             "technologies": ["Python", "Scikit-learn", "Pandas", "Jupyter Notebook"],
             "githubUrl": "https://github.com/pbulbule13/ml",
             "liveUrl": "",
-            "docsUrl": "https://github.com/pbulbule13/ml#readme",
+            "docsUrl": "https://github.com/pbulbule13/ml",
             "highlights": [
               "Multiple ML algorithms",
               "End-to-end pipelines",
@@ -171,7 +171,7 @@
             "technologies": ["Python", "PyTorch", "Transformers", "Fine-tuning"],
             "githubUrl": "https://github.com/pbulbule13/finetuning",
             "liveUrl": "",
-            "docsUrl": "https://github.com/pbulbule13/finetuning#readme",
+            "docsUrl": "https://github.com/pbulbule13/finetuning",
             "highlights": [
               "Custom dataset fine-tuning",
               "Hyperparameter optimization",
@@ -184,7 +184,7 @@
             "technologies": ["Python", "MLOps", "CI/CD", "Automation"],
             "githubUrl": "https://github.com/pbulbule13/aimlautomations",
             "liveUrl": "https://aimlautomations-694708874867.us-central1.run.app",
-            "docsUrl": "https://github.com/pbulbule13/aimlautomations#readme",
+            "docsUrl": "https://github.com/pbulbule13/aimlautomations/blob/feature/aimlautomations-init/README.md",
             "highlights": [
               "Automated ML pipelines",
               "Model deployment automation",
@@ -217,7 +217,7 @@
             "technologies": ["Python", "MCP", "Google APIs", "Integration"],
             "githubUrl": "https://github.com/pbulbule13/mcpwithgoogle",
             "liveUrl": "",
-            "docsUrl": "https://github.com/pbulbule13/mcpwithgoogle#readme",
+            "docsUrl": "https://github.com/pbulbule13/mcpwithgoogle/blob/master/README.md",
             "highlights": [
               "Google Workspace integration",
               "MCP protocol implementation",
@@ -230,7 +230,7 @@
             "technologies": ["Python", "MCP", "Weather API", "Server"],
             "githubUrl": "https://github.com/pbulbule13/mcpweather",
             "liveUrl": "",
-            "docsUrl": "https://github.com/pbulbule13/mcpweather#readme",
+            "docsUrl": "https://github.com/pbulbule13/mcpweather/blob/master/README.md",
             "highlights": [
               "Real-time weather data",
               "MCP server implementation",
@@ -243,7 +243,7 @@
             "technologies": ["Python", "Docker", "Cloud Deployment", "DevOps"],
             "githubUrl": "https://github.com/pbulbule13/depoy_guide",
             "liveUrl": "https://depoy-guide-694708874867.us-central1.run.app",
-            "docsUrl": "https://github.com/pbulbule13/depoy_guide#readme",
+            "docsUrl": "https://github.com/pbulbule13/depoy_guide/blob/main/README.md",
             "highlights": [
               "Cloud deployment strategies",
               "Best practices documentation",
@@ -262,8 +262,8 @@
             "description": "Production-grade portfolio application built with React and Vite, featuring collapsible sections, responsive design, and automatic GitHub Pages deployment",
             "technologies": ["React", "Vite", "JavaScript", "GitHub Actions"],
             "githubUrl": "https://github.com/pbulbule13/aboutme",
-            "liveUrl": "https://aboutme-694708874867.us-central1.run.app",
-            "docsUrl": "https://github.com/pbulbule13/aboutme/blob/main/README.md",
+            "liveUrl": "https://prashil-portfolio-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/aboutme/blob/develop/README.md",
             "highlights": [
               "Single-page application",
               "JSON-configurable content",
