@@ -2,7 +2,7 @@
   "personal": {
     "name": "Prashil Bulbule",
     "title": "AI Engineer | Machine Learning Engineer | Staff Software Engineer",
-    "photo": "/path-to-your-photo.jpg",
+    "photo": "https://github.com/pbulbule13/aboutme/blob/develop/src/githubpic.jpeg?raw=true",
     "email": "prashilbulbule13@gmail.com",
     "linkedin": "https://linkedin.com/in/prashil-bulbule",
     "github": "https://github.com/pbulbule13"
@@ -82,7 +82,7 @@
             "description": "AI-Powered Executive Dashboard for HealthCare Sciences with multi-agent system orchestrated by LangGraph for intelligent analytics",
             "technologies": ["Python", "LangGraph", "Multi-Agent System", "HTML"],
             "githubUrl": "https://github.com/pbulbule13/LeaderDashboard",
-            "liveUrl": "https://storage.googleapis.com/ceo-dashboard-web-ceoleadershipdashboard/dashboard.html",
+            "liveUrl": "https://leaderdashboard-694708874867.us-central1.run.app",
             "docsUrl": "https://github.com/pbulbule13/LeaderDashboard/blob/main/README.md",
             "highlights": [
               "Multi-agent orchestration",
