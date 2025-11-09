@@ -55,7 +55,8 @@
             "description": "Intelligent email management system with AI-powered query reasoning, LLM fallback chain, and day summarization UI for automated inbox processing",
             "technologies": ["Python", "LLMs", "Gmail API", "FastAPI"],
             "githubUrl": "https://github.com/pbulbule13/talk2myinbox",
-            "liveUrl": "",
+            "liveUrl": "https://talk2myinbox-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/talk2myinbox#readme",
             "highlights": [
               "Multi-LLM fallback chain",
               "AI-powered query reasoning",
@@ -68,7 +69,8 @@
             "description": "Advanced Retrieval-Augmented Generation (RAG) system for intelligent document question-answering with vector embeddings",
             "technologies": ["Python", "LangChain", "Vector DB", "Embeddings"],
             "githubUrl": "https://github.com/pbulbule13/aurarag",
-            "liveUrl": "",
+            "liveUrl": "https://aurarag-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/aurarag/tree/main/docs",
             "highlights": [
               "Vector-based retrieval",
               "Context-aware responses",
@@ -80,7 +82,8 @@
             "description": "AI-Powered Executive Dashboard for HealthCare Sciences with multi-agent system orchestrated by LangGraph for intelligent analytics",
             "technologies": ["Python", "LangGraph", "Multi-Agent System", "HTML"],
             "githubUrl": "https://github.com/pbulbule13/LeaderDashboard",
-            "liveUrl": "",
+            "liveUrl": "https://storage.googleapis.com/ceo-dashboard-web-ceoleadershipdashboard/dashboard.html",
+            "docsUrl": "https://github.com/pbulbule13/LeaderDashboard/blob/main/README.md",
             "highlights": [
               "Multi-agent orchestration",
               "LangGraph workflow",
@@ -94,6 +97,7 @@
             "technologies": ["Python", "LLMs", "Calendar API", "Voice Processing"],
             "githubUrl": "https://github.com/pbulbule13/dailyjournal",
             "liveUrl": "",
+            "docsUrl": "https://github.com/pbulbule13/dailyjournal#readme",
             "highlights": [
               "Voice-to-text journaling",
               "Calendar integration",
@@ -106,7 +110,8 @@
             "description": "Comprehensive framework for building and deploying autonomous AI agents with customizable behaviors and task orchestration",
             "technologies": ["Python", "Agent Framework", "Task Orchestration"],
             "githubUrl": "https://github.com/pbulbule13/agents",
-            "liveUrl": "",
+            "liveUrl": "https://ats-resume-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/agents#readme",
             "highlights": [
               "Autonomous agent system",
               "Task orchestration",
@@ -118,7 +123,8 @@
             "description": "Medical AI assistant bot providing health information and preliminary diagnosis suggestions using NLP and medical knowledge bases",
             "technologies": ["Python", "NLP", "Medical AI"],
             "githubUrl": "https://github.com/pbulbule13/medibot",
-            "liveUrl": "",
+            "liveUrl": "https://medibot-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/medibot#readme",
             "highlights": [
               "Medical knowledge base",
               "NLP-powered interactions",
@@ -130,7 +136,8 @@
             "description": "Browser automation web UI with multi-LLM support for job search and research tasks, featuring intelligent web scraping and data extraction",
             "technologies": ["Python", "Selenium", "Multi-LLM", "Web Automation"],
             "githubUrl": "https://github.com/pbulbule13/utils",
-            "liveUrl": "",
+            "liveUrl": "https://utils-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/utils#readme",
             "highlights": [
               "Multi-LLM integration",
               "Intelligent web scraping",
@@ -151,6 +158,7 @@
             "technologies": ["Python", "Scikit-learn", "Pandas", "Jupyter Notebook"],
             "githubUrl": "https://github.com/pbulbule13/ml",
             "liveUrl": "",
+            "docsUrl": "https://github.com/pbulbule13/ml#readme",
             "highlights": [
               "Multiple ML algorithms",
               "End-to-end pipelines",
@@ -163,6 +171,7 @@
             "technologies": ["Python", "PyTorch", "Transformers", "Fine-tuning"],
             "githubUrl": "https://github.com/pbulbule13/finetuning",
             "liveUrl": "",
+            "docsUrl": "https://github.com/pbulbule13/finetuning#readme",
             "highlights": [
               "Custom dataset fine-tuning",
               "Hyperparameter optimization",
@@ -174,7 +183,8 @@
             "description": "Automated workflows and pipelines for ML model training, deployment, and monitoring with CI/CD integration",
             "technologies": ["Python", "MLOps", "CI/CD", "Automation"],
             "githubUrl": "https://github.com/pbulbule13/aimlautomations",
-            "liveUrl": "",
+            "liveUrl": "https://aimlautomations-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/aimlautomations#readme",
             "highlights": [
               "Automated ML pipelines",
               "Model deployment automation",
@@ -187,6 +197,7 @@
             "technologies": ["Python", "Docker", "Kubernetes", "MLOps"],
             "githubUrl": "https://github.com/pbulbule13/prodaimlprojects",
             "liveUrl": "",
+            "docsUrl": "https://github.com/pbulbule13/prodaimlprojects#readme",
             "highlights": [
               "Production-grade code",
               "Scalable architecture",
@@ -206,6 +217,7 @@
             "technologies": ["Python", "MCP", "Google APIs", "Integration"],
             "githubUrl": "https://github.com/pbulbule13/mcpwithgoogle",
             "liveUrl": "",
+            "docsUrl": "https://github.com/pbulbule13/mcpwithgoogle#readme",
             "highlights": [
               "Google Workspace integration",
               "MCP protocol implementation",
@@ -218,6 +230,7 @@
             "technologies": ["Python", "MCP", "Weather API", "Server"],
             "githubUrl": "https://github.com/pbulbule13/mcpweather",
             "liveUrl": "",
+            "docsUrl": "https://github.com/pbulbule13/mcpweather#readme",
             "highlights": [
               "Real-time weather data",
               "MCP server implementation",
@@ -228,8 +241,9 @@
             "name": "Deployment Guide",
             "description": "Comprehensive guide and utilities for deploying ML models and AI applications to cloud platforms with best practices",
             "technologies": ["Python", "Docker", "Cloud Deployment", "DevOps"],
-            "githubUrl": "https://github.com/pbulbule13/deploy_guide",
-            "liveUrl": "",
+            "githubUrl": "https://github.com/pbulbule13/depoy_guide",
+            "liveUrl": "https://depoy-guide-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/depoy_guide#readme",
             "highlights": [
               "Cloud deployment strategies",
               "Best practices documentation",
@@ -248,7 +262,8 @@
             "description": "Production-grade portfolio application built with React and Vite, featuring collapsible sections, responsive design, and automatic GitHub Pages deployment",
             "technologies": ["React", "Vite", "JavaScript", "GitHub Actions"],
             "githubUrl": "https://github.com/pbulbule13/aboutme",
-            "liveUrl": "https://pbulbule13.github.io/aboutme/",
+            "liveUrl": "https://aboutme-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/aboutme/blob/main/README.md",
             "highlights": [
               "Single-page application",
               "JSON-configurable content",
