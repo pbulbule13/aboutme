@@ -55,7 +55,7 @@
             "description": "Intelligent email management system with AI-powered query reasoning, LLM fallback chain, and day summarization UI for automated inbox processing",
             "technologies": ["Python", "LLMs", "Gmail API", "FastAPI"],
             "githubUrl": "https://github.com/pbulbule13/talk2myinbox",
-            "liveUrl": "https://talk2myinbox-694708874867.us-central1.run.app",
+            "liveUrl": "https://talk2myinbox-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/talk2myinbox",
             "highlights": [
               "Multi-LLM fallback chain",
@@ -69,7 +69,7 @@
             "description": "Advanced Retrieval-Augmented Generation (RAG) system for intelligent document question-answering with vector embeddings",
             "technologies": ["Python", "LangChain", "Vector DB", "Embeddings"],
             "githubUrl": "https://github.com/pbulbule13/aurarag",
-            "liveUrl": "https://aurarag-694708874867.us-central1.run.app",
+            "liveUrl": "https://aurarag-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/aurarag/tree/main/docs",
             "highlights": [
               "Vector-based retrieval",
@@ -82,7 +82,7 @@
             "description": "AI-Powered Executive Dashboard for HealthCare Sciences with multi-agent system orchestrated by LangGraph for intelligent analytics",
             "technologies": ["Python", "LangGraph", "Multi-Agent System", "HTML"],
             "githubUrl": "https://github.com/pbulbule13/LeaderDashboard",
-            "liveUrl": "https://leaderdashboard-694708874867.us-central1.run.app",
+            "liveUrl": "https://leaderdashboard-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/LeaderDashboard/blob/main/README.md",
             "highlights": [
               "Multi-agent orchestration",
@@ -110,7 +110,7 @@
             "description": "Comprehensive framework for building and deploying autonomous AI agents with customizable behaviors and task orchestration",
             "technologies": ["Python", "Agent Framework", "Task Orchestration"],
             "githubUrl": "https://github.com/pbulbule13/agents",
-            "liveUrl": "https://ats-resume-694708874867.us-central1.run.app",
+            "liveUrl": "https://ats-resume-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/agents",
             "highlights": [
               "Autonomous agent system",
@@ -123,7 +123,7 @@
             "description": "Medical AI assistant bot providing health information and preliminary diagnosis suggestions using NLP and medical knowledge bases",
             "technologies": ["Python", "NLP", "Medical AI"],
             "githubUrl": "https://github.com/pbulbule13/medibot",
-            "liveUrl": "https://medibot-694708874867.us-central1.run.app",
+            "liveUrl": "https://medibot-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/medibot",
             "highlights": [
               "Medical knowledge base",
@@ -136,7 +136,7 @@
             "description": "Browser automation web UI with multi-LLM support for job search and research tasks, featuring intelligent web scraping and data extraction",
             "technologies": ["Python", "Selenium", "Multi-LLM", "Web Automation"],
             "githubUrl": "https://github.com/pbulbule13/utils",
-            "liveUrl": "https://utils-694708874867.us-central1.run.app",
+            "liveUrl": "https://utils-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/utils#readme",
             "highlights": [
               "Multi-LLM integration",
@@ -183,7 +183,7 @@
             "description": "Automated workflows and pipelines for ML model training, deployment, and monitoring with CI/CD integration",
             "technologies": ["Python", "MLOps", "CI/CD", "Automation"],
             "githubUrl": "https://github.com/pbulbule13/aimlautomations",
-            "liveUrl": "https://aimlautomations-694708874867.us-central1.run.app",
+            "liveUrl": "https://aimlautomations-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/aimlautomations/blob/feature/aimlautomations-init/README.md",
             "highlights": [
               "Automated ML pipelines",
@@ -242,7 +242,7 @@
             "description": "Comprehensive guide and utilities for deploying ML models and AI applications to cloud platforms with best practices",
             "technologies": ["Python", "Docker", "Cloud Deployment", "DevOps"],
             "githubUrl": "https://github.com/pbulbule13/depoy_guide",
-            "liveUrl": "https://depoy-guide-694708874867.us-central1.run.app",
+            "liveUrl": "https://depoy-guide-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/depoy_guide/blob/main/README.md",
             "highlights": [
               "Cloud deployment strategies",
@@ -262,7 +262,7 @@
             "description": "Production-grade portfolio application built with React and Vite, featuring collapsible sections, responsive design, and automatic GitHub Pages deployment",
             "technologies": ["React", "Vite", "JavaScript", "GitHub Actions"],
             "githubUrl": "https://github.com/pbulbule13/aboutme",
-            "liveUrl": "https://prashil-portfolio-694708874867.us-central1.run.app",
+            "liveUrl": "https://prashil-portfolio-xf3nn3udga-uc.a.run.app",
             "docsUrl": "https://github.com/pbulbule13/aboutme/blob/develop/README.md",
             "highlights": [
               "Single-page application",
