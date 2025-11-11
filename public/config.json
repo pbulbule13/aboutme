@@ -78,6 +78,21 @@
             ]
           },
           {
+            "name": "CoupleCal",
+            "description": "AI-first family scheduling and task management platform with image-to-calendar extraction, voice commands, and smart reminders powered by LangChain multi-agent system",
+            "technologies": ["React", "FastAPI", "PostgreSQL", "LangChain", "GPT-4 Vision", "Redis"],
+            "githubUrl": "https://github.com/pbulbule13/couplecal",
+            "liveUrl": "https://couplecal-694708874867.us-central1.run.app",
+            "docsUrl": "https://github.com/pbulbule13/couplecal/blob/main/docs/README.md",
+            "highlights": [
+              "Image-to-calendar AI extraction",
+              "Voice-powered event creation",
+              "Multi-agent AI orchestration",
+              "Real-time calendar sync",
+              "Smart contextual reminders"
+            ]
+          },
+          {
             "name": "Leader Dashboard",
             "description": "AI-Powered Executive Dashboard for HealthCare Sciences with multi-agent system orchestrated by LangGraph for intelligent analytics",
             "technologies": ["Python", "LangGraph", "Multi-Agent System", "HTML"],
