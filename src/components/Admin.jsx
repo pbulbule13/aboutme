@@ -69,8 +69,11 @@ function Admin() {
     }
   };
 
+  // Helper function to deep clone config
+  const deepClone = (obj) => JSON.parse(JSON.stringify(obj));
+
   const updateConfig = (path, value) => {
-    const newConfig = { ...config };
+    const newConfig = deepClone(config);
     const keys = path.split('.');
     let current = newConfig;
 
@@ -83,19 +86,19 @@ function Admin() {
   };
 
   const updateProject = (categoryIndex, projectIndex, field, value) => {
-    const newConfig = { ...config };
+    const newConfig = deepClone(config);
     newConfig.projects.categories[categoryIndex].projects[projectIndex][field] = value;
     setConfig(newConfig);
   };
 
   const updateProjectHighlight = (categoryIndex, projectIndex, highlightIndex, value) => {
-    const newConfig = { ...config };
+    const newConfig = deepClone(config);
     newConfig.projects.categories[categoryIndex].projects[projectIndex].highlights[highlightIndex] = value;
     setConfig(newConfig);
   };
 
   const addProject = (categoryIndex) => {
-    const newConfig = { ...config };
+    const newConfig = deepClone(config);
     newConfig.projects.categories[categoryIndex].projects.push({
       name: 'New Project',
       description: 'Description',
@@ -110,7 +113,7 @@ function Admin() {
 
   const deleteProject = (categoryIndex, projectIndex) => {
     if (confirm('Are you sure you want to delete this project?')) {
-      const newConfig = { ...config };
+      const newConfig = deepClone(config);
       newConfig.projects.categories[categoryIndex].projects.splice(projectIndex, 1);
       setConfig(newConfig);
     }
@@ -246,7 +249,7 @@ function Admin() {
                   type="text"
                   value={category.description}
                   onChange={(e) => {
-                    const newConfig = { ...config };
+                    const newConfig = deepClone(config);
                     newConfig.projects.categories[catIndex].description = e.target.value;
                     setConfig(newConfig);
                   }}
