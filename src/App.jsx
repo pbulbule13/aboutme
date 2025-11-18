@@ -27,9 +27,8 @@ function App() {
   const [loading, setLoading] = useState(true)
 
   useEffect(() => {
-    // Use Vite's base URL for correct path resolution
-    const configPath = `${import.meta.env.BASE_URL}config.json`
-    fetch(configPath)
+    // Fetch config from API endpoint which reads from Cloud Storage
+    fetch('/api/config')
       .then(response => response.json())
       .then(data => {
         setConfig(data)
